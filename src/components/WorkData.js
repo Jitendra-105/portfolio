@@ -14,7 +14,7 @@ const ProjectCardData = [
         imgsrc: pro2,
         title: "Grocery List",
         text:"A list to note down the number of items that needs to be bought. Used technology like HTML, CSS and Javacript",
-        view: "http://127.0.0.1:5500/grocery.html"
+        view: "https://jitendra-105.github.io/grocery-list/"
     },
     {
         imgsrc: pro3,
