@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Outfit', sans-serif;
+}
+body {
+  background-color: black;
+}
+h1, h4, p, a {
+  color: white;
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+.btn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  /* background-color: rgb(255, 255, 0); */
+  background: rgb(0,0,255);
+background: linear-gradient(90deg, rgba(0,0,255,1) 12%, rgba(69,134,252,1) 79%);
+  /* color: #222; */
+  color: white;
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-light {
+  background: transparent;
+  color: #fff;
+}
+.btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  transition: 0.35;
+}
