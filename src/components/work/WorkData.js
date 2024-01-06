@@ -15,7 +15,7 @@ const ProjectCardData = [
         imgsrc: pro4,
         title: "instagram-clone",
         text:"A responsive web application featuring profile customization, post uploads, user authentication (login/logout), and interaction through likes and comments. Built using ReactJS, this project mirrors the core functionalities of Instagram.",
-        view: "https://jitendra-105.github.io/grocery-list/"
+        view: "https://mirroring-instagram.netlify.app/"
     },
    
     {
