@@ -1,6 +1,7 @@
-import pro1 from '../assets/flipkart.png'
-import pro2 from '../assets/groceryList.png'
-import pro3 from '../assets/introImg.jpg'
+import pro1 from '../../assets/flipkart.png'
+import pro2 from '../../assets/groceryList.png'
+import pro3 from '../../assets/introImg.jpg'
+import pro4 from '../../assets/instagram.png'
 
 
 const ProjectCardData = [
@@ -11,16 +12,23 @@ const ProjectCardData = [
         view: "https://jitendra-105.github.io/flipkartclone/main/"
     },
     {
-        imgsrc: pro2,
-        title: "Grocery List",
-        text:"A list to note down the number of items that needs to be bought. Used technology like HTML, CSS and Javacript",
+        imgsrc: pro4,
+        title: "Instagram clone",
+        text:"A responsive web application featuring profile customization, post uploads, user authentication (login/logout), and interaction through likes and comments. Built using ReactJS, this project mirrors the core functionalities of Instagram for a seamless user experience.",
         view: "https://jitendra-105.github.io/grocery-list/"
     },
+   
     {
         imgsrc: pro3,
         title: "Responsive Mynta-clone",
         text:"Thriving Facebook community and top-ranked podcast, Amy inspires  a grounded, tangible and self-affirming sense of wow! I really can do this for over 100,000 online entrpreneurs. Best-selling marketing courses",
         view: "https://myntrappclone.netlify.app/"
+    },
+    {
+        imgsrc: pro2,
+        title: "Grocery List",
+        text:"A list to note down the number of items that needs to be bought. Used technology like HTML, CSS and Javacript",
+        view: "https://jitendra-105.github.io/grocery-list/"
     }
 ]
 

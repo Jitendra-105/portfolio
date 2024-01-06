@@ -1,6 +1,6 @@
 import React from 'react'
 import './HeroImgStyles.css'
-import introImg from '../assets/introImg.jpg' // here introImg name was given by us and we can name anything and later this name will be provided in src using curly backet as done in line no.9
+import introImg from '../../assets/introImg.jpg' // here introImg name was given by us and we can name anything and later this name will be provided in src using curly backet as done in line no.9
 import {Link} from 'react-router-dom'
 
 const HeroImg = () => {

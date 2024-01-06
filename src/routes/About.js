@@ -1,8 +1,8 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
-import HeroImg2 from '../components/HeroImg2'
-import AboutContent from '../components/AboutContent'
+import Navbar from '../components/navbar/Navbar'
+import Footer from '../components/footer/Footer'
+import HeroImg2 from '../components/hero/HeroImg2'
+import AboutContent from '../components/about/AboutContent'
 
 
 const About = () => {
