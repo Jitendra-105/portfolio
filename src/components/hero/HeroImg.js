@@ -10,7 +10,7 @@ const HeroImg = () => {
             <img className = 'intro-img' src={introImg} alt='introImg'></img> {/*in reactjs we always should use alt and we can name it anything */}
         </div>
         <div className='content'>
-            <p>HI, I'M A FREELANCER</p>
+            <p>HI, I'M JITENDRA YADAV</p>
             <h1>React Developer</h1>
             <div>
                 <Link to  = '/Project' className= 'btn'>Projects</Link>
