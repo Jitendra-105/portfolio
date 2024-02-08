@@ -9,7 +9,7 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Responsive Ecommerce Website",
         text:"develped an E-commerce platform using HTML, CSS and Javascript also framework like bootstrap.Multi-pages responsive design for various screens along with search functionality",
-        view: "https://jitendra-105.github.io/flipkartclone/main/"
+        view: "https://jitendra-105.github.io/flipkartclone/"
     },
     {
         imgsrc: pro4,

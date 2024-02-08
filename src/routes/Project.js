@@ -10,7 +10,7 @@ const Project = () => {
   return (
     <div> 
       <Navbar />
-      <HeroImg2 heading = "PROJECTS." text = "I'm friendly front-end developer"/> {/*added two varibles and store data so that using props we can directly pass in project file in h1 and p tag */}
+      <HeroImg2 heading = "PROJECTS." text = "I'm friendly front-end developer"/>
       <Work />
       <PricingCard />
       <Footer />
